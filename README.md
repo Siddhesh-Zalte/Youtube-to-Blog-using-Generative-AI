@@ -61,5 +61,5 @@ A CrewAI-based application that **automatically writes blog posts** based on the
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/youtube-blog-writer.git
-   cd youtube-blog-writer
+   git clone https://github.com/Siddhesh-Zalte/Youtube-to-Blog-using-Generative-AI/
+   cd Youtube-to-Blog-using-Generative-AI
